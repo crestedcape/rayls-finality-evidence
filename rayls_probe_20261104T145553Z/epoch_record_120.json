@@ -1,0 +1,38 @@
+{
+ "jsonrpc": "2.0",
+ "id": 231,
+ "result": [
+  {
+   "epoch": 120,
+   "committee": [
+    "pdomvJaED4VD1BBoeuWDitpuET4Qrg8vosyZETsbicgvg9sP78vT3QgPJMRUP5quAwUQTYU8BudeHWkYeAmfmgPtGADygsKkq8wb1YUGnT17A9Ag6Qhksu9niY4J2mQfoJW",
+    "tMY8LnuvoL1YoFgxmUsSTV3D88vdhLbmj4HDVVUGSr31FgGHQSRpW6PqFnbmCn57d9HnL9ipKwXbQ8tL9mBdVHnqAsy7wvQ1j1zgFCtETpAiREyL931qW3hSUPddXsTAxhZ",
+    "uvRVQ2JxrJsmPRd21QcCswYk5x6VPcshu329X4YYz2PdBJsL2MyyHHqLqqZr1uVKdU95L2ZKa35km18ruT61FBSCaE5UBLDCXteXoouQaqiSZz4dr9yyS1CSXUxM6ZzuRq7",
+    "xt1uZiafU1iF4WyAeX22gDmQwMkBFMBStvaZYTDdf9j72ydaCnfKrtnXRjDjdEd82z5XcydVVRzLmS8WxCBs2ngsCFvA1rkCiqoxPyYcGUv4wC4cPuHqnmEGs5LyE7SGdWP",
+    "yAyFZMLMTYdjfqy3pRM5HiUvN3TSGMdLfrnQTjva6Jm2wfhDFTsRdjdWaLbD7K1hPXtsVhrsuevdPRwaat9Wy2kcM1YLpMcaUo58S4qQRYj2mhpd6551jqznxag18K9zank",
+    "zAEnbE5ZguFDVZGYsH1R3DVpUmxi6RW1MuXMdRQzvBnBPU4MRWpNWTxsmqRY9T422gTKCwnpTGQEW38uorVoTcxsQ55gFyCrtKCxUKyzTvcMADWT33fzbiqPe3SXPkgK4pj",
+    "24Vsw1CXyQqPpJU5wdTZBAK4qi37Q9AV6GtDy7xUZnLrGZs1HyTdoGNBd3zVcTChfxJijpbQgqYvzXdLVisY3BvvVge9dxgDm2WQeDgpXnWHQJoXNfCXpHEjqXcuLeBk8bNL"
+   ],
+   "next_committee": [
+    "pdomvJaED4VD1BBoeuWDitpuET4Qrg8vosyZETsbicgvg9sP78vT3QgPJMRUP5quAwUQTYU8BudeHWkYeAmfmgPtGADygsKkq8wb1YUGnT17A9Ag6Qhksu9niY4J2mQfoJW",
+    "tMY8LnuvoL1YoFgxmUsSTV3D88vdhLbmj4HDVVUGSr31FgGHQSRpW6PqFnbmCn57d9HnL9ipKwXbQ8tL9mBdVHnqAsy7wvQ1j1zgFCtETpAiREyL931qW3hSUPddXsTAxhZ",
+    "uvRVQ2JxrJsmPRd21QcCswYk5x6VPcshu329X4YYz2PdBJsL2MyyHHqLqqZr1uVKdU95L2ZKa35km18ruT61FBSCaE5UBLDCXteXoouQaqiSZz4dr9yyS1CSXUxM6ZzuRq7",
+    "xt1uZiafU1iF4WyAeX22gDmQwMkBFMBStvaZYTDdf9j72ydaCnfKrtnXRjDjdEd82z5XcydVVRzLmS8WxCBs2ngsCFvA1rkCiqoxPyYcGUv4wC4cPuHqnmEGs5LyE7SGdWP",
+    "yAyFZMLMTYdjfqy3pRM5HiUvN3TSGMdLfrnQTjva6Jm2wfhDFTsRdjdWaLbD7K1hPXtsVhrsuevdPRwaat9Wy2kcM1YLpMcaUo58S4qQRYj2mhpd6551jqznxag18K9zank",
+    "zAEnbE5ZguFDVZGYsH1R3DVpUmxi6RW1MuXMdRQzvBnBPU4MRWpNWTxsmqRY9T422gTKCwnpTGQEW38uorVoTcxsQ55gFyCrtKCxUKyzTvcMADWT33fzbiqPe3SXPkgK4pj",
+    "24Vsw1CXyQqPpJU5wdTZBAK4qi37Q9AV6GtDy7xUZnLrGZs1HyTdoGNBd3zVcTChfxJijpbQgqYvzXdLVisY3BvvVge9dxgDm2WQeDgpXnWHQJoXNfCXpHEjqXcuLeBk8bNL"
+   ],
+   "parent_hash": "0xd35967ef7d66c6c1d044104c7ac55847720dc2367ec65f34f7e69c2ba6ab5621",
+   "parent_state": {
+    "number": 7903132,
+    "hash": "0x439a250bac1db365e6ba870ce574c34b3eec60e1bbf7fb909f3954040db7a5fd"
+   },
+   "parent_consensus": "0x47fa0467ab42a1ae580d3245f240fb8a554940735e8ebd0030ace34289b28fe0"
+  },
+  {
+   "epoch_hash": "0xf1cccde105b74de03e02338e6134b71627f67559ed73f018ed782197b9acecc0",
+   "signature": "7ob964G8Z2RsSVChaMNGt38jiz8ciJXo3HMpj8wuJXrpeEQW1AkwXFyGtpsUKnXXJ9",
+   "signed_authorities": "CfEZsDc8fopkwXaJSVco2MtM383wPXPZzawzspmtj"
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "jsonrpc": "2.0",
+ "id": 232,
+ "result": [
+  {
+   "epoch": 130,
+   "committee": [
+    "pdomvJaED4VD1BBoeuWDitpuET4Qrg8vosyZETsbicgvg9sP78vT3QgPJMRUP5quAwUQTYU8BudeHWkYeAmfmgPtGADygsKkq8wb1YUGnT17A9Ag6Qhksu9niY4J2mQfoJW",
+    "tMY8LnuvoL1YoFgxmUsSTV3D88vdhLbmj4HDVVUGSr31FgGHQSRpW6PqFnbmCn57d9HnL9ipKwXbQ8tL9mBdVHnqAsy7wvQ1j1zgFCtETpAiREyL931qW3hSUPddXsTAxhZ",
+    "uvRVQ2JxrJsmPRd21QcCswYk5x6VPcshu329X4YYz2PdBJsL2MyyHHqLqqZr1uVKdU95L2ZKa35km18ruT61FBSCaE5UBLDCXteXoouQaqiSZz4dr9yyS1CSXUxM6ZzuRq7",
+    "xt1uZiafU1iF4WyAeX22gDmQwMkBFMBStvaZYTDdf9j72ydaCnfKrtnXRjDjdEd82z5XcydVVRzLmS8WxCBs2ngsCFvA1rkCiqoxPyYcGUv4wC4cPuHqnmEGs5LyE7SGdWP",
+    "yAyFZMLMTYdjfqy3pRM5HiUvN3TSGMdLfrnQTjva6Jm2wfhDFTsRdjdWaLbD7K1hPXtsVhrsuevdPRwaat9Wy2kcM1YLpMcaUo58S4qQRYj2mhpd6551jqznxag18K9zank",
+    "zAEnbE5ZguFDVZGYsH1R3DVpUmxi6RW1MuXMdRQzvBnBPU4MRWpNWTxsmqRY9T422gTKCwnpTGQEW38uorVoTcxsQ55gFyCrtKCxUKyzTvcMADWT33fzbiqPe3SXPkgK4pj",
+    "24Vsw1CXyQqPpJU5wdTZBAK4qi37Q9AV6GtDy7xUZnLrGZs1HyTdoGNBd3zVcTChfxJijpbQgqYvzXdLVisY3BvvVge9dxgDm2WQeDgpXnWHQJoXNfCXpHEjqXcuLeBk8bNL"
+   ],
+   "next_committee": [
+    "pdomvJaED4VD1BBoeuWDitpuET4Qrg8vosyZETsbicgvg9sP78vT3QgPJMRUP5quAwUQTYU8BudeHWkYeAmfmgPtGADygsKkq8wb1YUGnT17A9Ag6Qhksu9niY4J2mQfoJW",
+    "tMY8LnuvoL1YoFgxmUsSTV3D88vdhLbmj4HDVVUGSr31FgGHQSRpW6PqFnbmCn57d9HnL9ipKwXbQ8tL9mBdVHnqAsy7wvQ1j1zgFCtETpAiREyL931qW3hSUPddXsTAxhZ",
+    "uvRVQ2JxrJsmPRd21QcCswYk5x6VPcshu329X4YYz2PdBJsL2MyyHHqLqqZr1uVKdU95L2ZKa35km18ruT61FBSCaE5UBLDCXteXoouQaqiSZz4dr9yyS1CSXUxM6ZzuRq7",
+    "xt1uZiafU1iF4WyAeX22gDmQwMkBFMBStvaZYTDdf9j72ydaCnfKrtnXRjDjdEd82z5XcydVVRzLmS8WxCBs2ngsCFvA1rkCiqoxPyYcGUv4wC4cPuHqnmEGs5LyE7SGdWP",
+    "yAyFZMLMTYdjfqy3pRM5HiUvN3TSGMdLfrnQTjva6Jm2wfhDFTsRdjdWaLbD7K1hPXtsVhrsuevdPRwaat9Wy2kcM1YLpMcaUo58S4qQRYj2mhpd6551jqznxag18K9zank",
+    "zAEnbE5ZguFDVZGYsH1R3DVpUmxi6RW1MuXMdRQzvBnBPU4MRWpNWTxsmqRY9T422gTKCwnpTGQEW38uorVoTcxsQ55gFyCrtKCxUKyzTvcMADWT33fzbiqPe3SXPkgK4pj",
+    "24Vsw1CXyQqPpJU5wdTZBAK4qi37Q9AV6GtDy7xUZnLrGZs1HyTdoGNBd3zVcTChfxJijpbQgqYvzXdLVisY3BvvVge9dxgDm2WQeDgpXnWHQJoXNfCXpHEjqXcuLeBk8bNL"
+   ],
+   "parent_hash": "0x97c3078076c69a04413ed4527aeb51949a84339d04280002e9d74c82c987441a",
+   "parent_state": {
+    "number": 8568807,
+    "hash": "0x9fcba66d05f97c439cd34aec816d34684961668cc2f273ece87831aa12d530c7"
+   },
+   "parent_consensus": "0x80076925c09a1ec85af905696772ddc46bea70352720913f140dc81ef93935e8"
+  },
+  {
+   "epoch_hash": "0x92a35f29701d84a79659bdd5f6e2c2ad474ffc171bab66cccd2b964b3f622f96",
+   "signature": "7JrWNkJg5VQhdBPkN1fcjkjWMbyMtukL4fgvX9Q7Ft9W7Q8JVEXHn34DAbZyzt3wXi",
+   "signed_authorities": "2nLqe24nocoseuuBygc8VW6FW3oXs9UFPMcK"
+  }
+ ]
+}
